@@ -1,0 +1,26 @@
+{
+  "name": "decode_ministeriosaludcr_qr_covid_node",
+  "version": "1.0.0",
+  "description": "Decode the Ministerio de Salud Costa Rica QR code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iMrLopez/Decode_MinisterioSaludCR_QR_COVID_Node.git"
+  },
+  "author": "MARNY LOPEZ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iMrLopez/Decode_MinisterioSaludCR_QR_COVID_Node/issues"
+  },
+  "homepage": "https://github.com/iMrLopez/Decode_MinisterioSaludCR_QR_COVID_Node#readme",
+  "dependencies": {
+    "base45": "^2.0.1",
+    "cbor": "^8.1.0",
+    "jpeg-js": "^0.4.3",
+    "jsqr": "^1.4.0",
+    "pako": "^2.0.4"
+  }
+}
